@@ -1,4 +1,4 @@
-import {TouchableOpacity} from 'react-native';
+import {TouchableOpacity, Text} from 'react-native';
 
 const MDButtom = ({label, selected, onPress, dynamicStyle, textColor}) => {
   const buttonStyle = {
